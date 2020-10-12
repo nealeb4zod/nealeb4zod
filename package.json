@@ -1,0 +1,22 @@
+{
+  "name": "nealeb4zod",
+  "version": "1.0.0",
+  "description": "github read.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealeb4zod/nealeb4zod.git"
+  },
+  "author": "Neale Johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nealeb4zod/nealeb4zod/issues"
+  },
+  "homepage": "https://github.com/nealeb4zod/nealeb4zod#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
